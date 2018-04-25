@@ -1,5 +1,6 @@
-# AngularFirebaseCrud
+# Angular Firebase CRUD
 
+This project is my first attempt to get familiar with firebase functionality.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
